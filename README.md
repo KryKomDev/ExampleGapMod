@@ -8,7 +8,7 @@ this is an example of a mod made for the Generative Art Program
 * `ExampleGenerator` - example implementation of an image generator
 
 ## Usage:
-1. implement
+1. implement things from the GapCore library (available on NuGet)
 2. build to a .dll file
 3. put the .dll to the mod directory specified in GAP (the loader will do the rest)
 
